@@ -34,7 +34,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          wc -l ./django-web-app
+          wc -l ./Projet-Django/django-web-app
           wc -l ./README.md         
       - name: SCP Files
 
